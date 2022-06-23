@@ -1,0 +1,8 @@
+//@import '@/assets/scss/variables';        //SI LOCAL - NO CODESANDBOX
+//@import './assets/scss/variables';        //NO LOCAL - NO CODE SANDBOX
+//@import 'assets/scss/variables';          //NO LOCAL - NO CODE SANDBOX
+@import '../assets/scss/variables';         //SI LOCAL - SI CODE SANDBOX
+
+#app {
+    color:$btn-bl;
+}

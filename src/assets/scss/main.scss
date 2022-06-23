@@ -1,0 +1,11 @@
+// Best Practice
+// In questo file, essendo quello principale, non dovrebbero esserci stili, 
+// ma solo import
+
+@import "./variables";
+
+@import "~bootstrap/scss/bootstrap";
+// @import "~bootstrap/dist/css/bootstrap.min.css";
+
+@import "./general";
+@import "./buttons";
